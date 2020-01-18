@@ -1,0 +1,47 @@
+username- ChawYadiZin
+email- chawyatizin2002@gmail.com
+password- Chaw*.281
+
+step 1: git download
+step 2: git installation
+step 3: github Account Creation
+Step 4: git responsitory
+Step 5: A file to upoad on github
+Step 6: git command line
+
+cd path _ Go to Directory
+
+First time (New repository)
+			git init
+			git add
+			git cofig global user.email "useremil"
+			git coig global user.name "username"
+
+			git comit-m "first commit"
+			git remote add orgin https:/?github.com/ChawYadiZin/Sample.git
+			git.push -u origin master
+
+(New Repository For new project)
+			git init
+			git add
+			git cofig global user.email "useremil"
+			git coig global user.name "username"
+
+			git comit-m "first commit"
+			git remote add orgin https:/?github.com/ChawYadiZin/Sample.git
+			git.push -u origin master
+
+(Old Repository for Existing Project)
+
+			git add.
+			git commit-m "Second commit"
+			git push
+
+(Existing Project to other laptop)
+
+			git pull
+
+(Other Person project to own laptop)
+
+			git clone https://github.com/ChawYadiZin/Sanple.git
+
