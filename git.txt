@@ -2,9 +2,9 @@ username- ChawYadiZin
 email- chawyatizin2002@gmail.com
 password- Chaw*.281
 
-step 1: git download
-step 2: git installation
-step 3: github Account Creation
+Step 1: git download
+Step 2: git installation
+Step 3: github Account Creation
 Step 4: git responsitory
 Step 5: A file to upoad on github
 Step 6: git command line
@@ -13,23 +13,23 @@ cd path _ Go to Directory
 
 First time (New repository)
 			git init
-			git add
-			git cofig global user.email "useremil"
-			git coig global user.name "username"
+			git add .
+			git config --global user.email "useremail"
+			git config --global user.name "username"
 
-			git comit-m "first commit"
+			git commit -m "first commit"
 			git remote add orgin https:/?github.com/ChawYadiZin/Sample.git
-			git.push -u origin master
+			git push -u origin master
 
 (New Repository For new project)
 			git init
-			git add
-			git cofig global user.email "useremil"
+			git add .
+			C"useremil"
 			git coig global user.name "username"
 
 			git comit-m "first commit"
 			git remote add orgin https:/?github.com/ChawYadiZin/Sample.git
-			git.push -u origin master
+			git push -u origin master
 
 (Old Repository for Existing Project)
 
